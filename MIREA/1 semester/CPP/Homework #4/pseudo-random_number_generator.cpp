@@ -26,6 +26,5 @@ int main()
         Sn = S0;
         std::cout << S0 << '\n';
     }
-	system("pause");
 	return 0;
 }
