@@ -12,6 +12,5 @@ int main() {
 	cout << "Input num: ";
 	cin >> num;
 	cout << check_sign(num) << endl;
-	system("pause");
 	return 0;
 }
