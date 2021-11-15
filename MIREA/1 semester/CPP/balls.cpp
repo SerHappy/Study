@@ -6,7 +6,6 @@ using namespace std;
 int main()
 {
     string s = "0123456789";
-    sort(s.begin(), s.end());
     int sum = 0;
     do
     {
